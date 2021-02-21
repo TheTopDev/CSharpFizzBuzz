@@ -1,0 +1,13 @@
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\bin\Debug\netcoreapp3.1\CSharpM1P1.exe
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\bin\Debug\netcoreapp3.1\CSharpM1P1.deps.json
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\bin\Debug\netcoreapp3.1\CSharpM1P1.runtimeconfig.json
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\bin\Debug\netcoreapp3.1\CSharpM1P1.runtimeconfig.dev.json
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\bin\Debug\netcoreapp3.1\CSharpM1P1.dll
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\bin\Debug\netcoreapp3.1\CSharpM1P1.pdb
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\obj\Debug\netcoreapp3.1\CSharpM1P1.csprojAssemblyReference.cache
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\obj\Debug\netcoreapp3.1\CSharpM1P1.AssemblyInfoInputs.cache
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\obj\Debug\netcoreapp3.1\CSharpM1P1.AssemblyInfo.cs
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\obj\Debug\netcoreapp3.1\CSharpM1P1.csproj.CoreCompileInputs.cache
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\obj\Debug\netcoreapp3.1\CSharpM1P1.dll
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\obj\Debug\netcoreapp3.1\CSharpM1P1.pdb
+C:\Users\Tooks\source\repos\CSharpM1P1\CSharpM1P1\obj\Debug\netcoreapp3.1\CSharpM1P1.genruntimeconfig.cache
